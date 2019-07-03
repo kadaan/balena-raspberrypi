@@ -1,6 +1,12 @@
 Change log
 -----------
 
+# v2.38.1+rev2
+## (2019-07-03)
+
+* Update the balena-yocto-scripts submodule to v1.2.1 [Florin Sarbu]
+* Update to Poky warrior-21.0.0 [Florin Sarbu]
+
 # v2.38.1+rev1
 ## (2019-06-27)
 

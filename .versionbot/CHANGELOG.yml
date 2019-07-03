@@ -1,4 +1,25 @@
 - commits:
+    - subject: Update the balena-yocto-scripts submodule to v1.2.1
+      hash: 110b3e09f6250e10b3bd1ef94be244c14bbd35ce
+      body: ''
+      footer:
+        Changelog-entry: Update the balena-yocto-scripts submodule to v1.2.1
+        changelog-entry: Update the balena-yocto-scripts submodule to v1.2.1
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+    - subject: Update to Poky warrior-21.0.0
+      hash: 80a980e43d4181e7922c4ef0e05444e54aeaffda
+      body: ''
+      footer:
+        Changelog-entry: Update to Poky warrior-21.0.0
+        changelog-entry: Update to Poky warrior-21.0.0
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+  version: 2.38.1+rev2
+  date: 2019-07-03T13:07:19.005Z
+- commits:
     - subject: Update meta-balena from v2.38.0 to v2.38.1
       hash: 518a1fa201fd9216c149c2b421570b5f82d982dd
       body: |
