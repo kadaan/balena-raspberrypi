@@ -15,5 +15,4 @@ SRC_URI += " \
     file://rpi-Use-CONFIG_OF_BOARD-instead-of-CONFIG_EMBED.patch \
     file://bootcount-Add-support-to-write-bootcount-to-any-file.patch \
     file://increase-usb-interface-nr.patch \
-    file://rpi.h-Remove-usb-start-from-CONFIG_PREBOOT.patch \
 "
